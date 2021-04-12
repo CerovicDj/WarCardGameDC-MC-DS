@@ -9,7 +9,7 @@ package ca.sheridancollege.project;
  * A class that models each Player in the game. Players have an identifier, which should be unique.
  * @author dancye, 2018
  * @editor matth, 2021
- * test
+ * 
  */
 public abstract class Player 
 {
@@ -48,4 +48,6 @@ public abstract class Player
      */
     public abstract void play();
     
+    
+    //testing one two three
 }
